@@ -1,5 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanashi060&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanashi060&layout=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanashi060&layoutcompact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nanashi060&theme=radical&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **nanashi060/nanashi060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
