@@ -7,7 +7,6 @@ Front End Web Developer
 I am a front-end engineer with about a year of internship experience. I am proficient in the latest development practices using TypeScript and Nuxt.js in the Web 3.0 industry.
 
 * 🌍  I'm based in Japan
-* 🖥️  See my portfolio at [My Portfolio](http://nanashi060)
 * ✉️  You can contact me at [aoyou65@gmail.com](mailto:aoyou65@gmail.com)
 * 🧠  I'm learning React.js (next.js)
 * 🤝  I'm open to collaborating on TypeScript projects
